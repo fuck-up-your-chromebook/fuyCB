@@ -9,7 +9,7 @@
 
 
 # Here is a simple, classic recipe for fluffy homemade pancakes:
-##Ingredients
+## Ingredients
 1 ½ cups all-purpose flour
 
 3 ½ teaspoons baking powder
@@ -24,7 +24,7 @@
 
 3 tablespoons melted butter (plus extra for the pan)
 
-##Instructions
+## Instructions
 Mix Dry Ingredients: In a large bowl, whisk together the flour, baking powder, salt, and sugar.
 
 Combine Wet Ingredients: Make a well in the center of the dry mixture. Pour in the milk, egg, and melted butter.
